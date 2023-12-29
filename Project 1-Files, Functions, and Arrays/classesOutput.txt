@@ -1,0 +1,20 @@
+Class names in order:
+
+Class Name: Computer Organization and Programming
+Class Name: Linear Algebra I
+Class Name: Orientation to Computing, Information, and Technology
+Class Name: Computer and Information Science Lab
+Class Name: Foundations of Computer Programming II
+Class Name: Introduction to Film
+Class Name: Microcomputer Applications
+
+
+Class names in reverse order:
+
+Class Name: Microcomputer Applications
+Class Name: Introduction to Film
+Class Name: Foundations of Computer Programming II
+Class Name: Computer and Information Science Lab
+Class Name: Orientation to Computing, Information, and Technology
+Class Name: Linear Algebra I
+Class Name: Computer Organization and Programming
